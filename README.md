@@ -15,7 +15,7 @@
 </p>
 
 <h4 align="center">
-  This project is a boilerplate created with the objective of learning a little about the basic structure of a React project.
+  This project is a boilerplate created with the basic structure of a ReactJS project without create-react-app.
 </h4>
 
 <p align="center">
