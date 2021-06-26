@@ -31,7 +31,6 @@ This project was developed using the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org)
-- [React-router-dom](https://github.com/ReactTraining/react-router)
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
 - [Sass](https://sass-lang.com/)
